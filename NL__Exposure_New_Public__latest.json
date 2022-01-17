@@ -1,0 +1,157 @@
+{
+  "objectIdFieldName" : "ObjectId", 
+  "uniqueIdField" : 
+  {
+    "name" : "ObjectId", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "globalid", 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "Prov", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Prov", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "globalid", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "JoinField", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "NL", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Date_Updated", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "Date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Travel", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "History of Travel", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Local_Known", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Locally Acquired – linked to known case or cluster", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Local_Unknown", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Locally Acquired – community transmission of unknown source", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Investigate", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Source Under Investigation", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Total", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total Cases", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "ObjectId", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "ObjectId", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "Prov" : "NL", 
+        "globalid" : "130b5644-9f9b-4e23-a1dd-dd0be65090d8", 
+        "JoinField" : "NL", 
+        "Date_Updated" : 1642174200000, 
+        "Travel" : 661, 
+        "Local_Known" : 2018, 
+        "Local_Unknown" : 131, 
+        "Investigate" : 9282, 
+        "Total" : 12092, 
+        "CreationDate" : 1642191173981, 
+        "Creator" : "andreweaton", 
+        "EditDate" : 1642191173981, 
+        "Editor" : "andreweaton", 
+        "ObjectId" : 1
+      }
+    }
+  ]
+}
