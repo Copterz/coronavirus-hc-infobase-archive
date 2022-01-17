@@ -1,0 +1,166 @@
+{
+  "objectIdFieldName" : "ObjectId", 
+  "uniqueIdField" : 
+  {
+    "name" : "ObjectId", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "globalid", 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "Prov", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Prov", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "globalid", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "JOINFIELD", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Join Field", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "DateUpdated", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "Date Updated", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Administered", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total Doses Administered to ages 12+", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "OneDose", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total 12+ With at Least One Dose", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Vaccinated", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total 12+ Fully Vaccinated", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Administered5to11", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total Doses Administered to ages 5 - 11", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "OneDose5to11", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total 5 - 11 With at Least One Dose", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Vaccinated5to11", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total 5 - 11 Fully Vaccinated", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "ObjectId", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "ObjectId", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "Prov" : "NL", 
+        "globalid" : "229a39f6-ad2c-4d88-bcfb-e0e5ec55b515", 
+        "JOINFIELD" : "NL", 
+        "DateUpdated" : 1642087800000, 
+        "Administered" : 1079472, 
+        "OneDose" : 464355, 
+        "Vaccinated" : 449755, 
+        "Administered5to11" : 25623, 
+        "OneDose5to11" : 25623, 
+        "Vaccinated5to11" : 0, 
+        "CreationDate" : 1642178673775, 
+        "Creator" : "andreweaton", 
+        "EditDate" : 1642178673775, 
+        "Editor" : "andreweaton", 
+        "ObjectId" : 1
+      }
+    }
+  ]
+}
