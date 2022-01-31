@@ -138,17 +138,17 @@
     {
       "attributes" : {
         "Prov" : "NL", 
-        "globalid" : "3657909a-b5b9-45c1-9f18-df5e6ca59f4b", 
+        "globalid" : "3633b847-6064-4400-b4d1-09aacf5164fb", 
         "JoinField" : "NL", 
-        "Date_Updated" : 1643383800000, 
+        "Date_Updated" : 1643643000000, 
         "Travel" : 666, 
-        "Local_Known" : 2071, 
+        "Local_Known" : 2085, 
         "Local_Unknown" : 133, 
-        "Investigate" : 13888, 
-        "Total" : 16758, 
-        "CreationDate" : 1643398842486, 
+        "Investigate" : 14475, 
+        "Total" : 17359, 
+        "CreationDate" : 1643657504061, 
         "Creator" : "andreweaton", 
-        "EditDate" : 1643398842486, 
+        "EditDate" : 1643657504061, 
         "Editor" : "andreweaton", 
         "ObjectId" : 1
       }
