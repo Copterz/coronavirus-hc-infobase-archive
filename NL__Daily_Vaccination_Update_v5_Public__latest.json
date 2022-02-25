@@ -146,19 +146,19 @@
     {
       "attributes" : {
         "Prov" : "NL", 
-        "globalid" : "1045b568-c51e-4909-8291-b4a1c82349f5", 
+        "globalid" : "7467ddda-2ec1-403e-b9b3-ee18787cdbba", 
         "JOINFIELD" : "NL", 
-        "DateUpdated" : 1645630200000, 
-        "Administered" : 1237490, 
-        "OneDose" : 469086, 
-        "Vaccinated" : 454693, 
-        "Administered5to11" : null, 
-        "OneDose5to11" : 28514, 
-        "Vaccinated5to11" : 16989, 
-        "CreationDate" : 1645649297518, 
-        "Creator" : "ToddStrickland_GNL", 
-        "EditDate" : 1645649297518, 
-        "Editor" : "ToddStrickland_GNL", 
+        "DateUpdated" : 1645716600000, 
+        "Administered" : 1243213, 
+        "OneDose" : 469193, 
+        "Vaccinated" : 454849, 
+        "Administered5to11" : 46461, 
+        "OneDose5to11" : 28569, 
+        "Vaccinated5to11" : 17892, 
+        "CreationDate" : 1645818838664, 
+        "Creator" : "andreweaton", 
+        "EditDate" : 1645818838664, 
+        "Editor" : "andreweaton", 
         "ObjectId" : 1
       }
     }
