@@ -130,16 +130,16 @@
     {
       "attributes" : {
         "Prov" : "NL", 
-        "globalid" : "28c004ba-f7d3-4c3a-8067-290b7c5d4bdc", 
-        "DateUpdated" : 1646235000000, 
-        "Unvaccinated" : 3018, 
-        "Partial" : 1240, 
-        "Fully" : 19513, 
+        "globalid" : "b523a0d4-d781-4f23-819b-34242518c8da", 
+        "DateUpdated" : 1646407800000, 
+        "Unvaccinated" : 3065, 
+        "Partial" : 1261, 
+        "Fully" : 20392, 
         "joinfield" : "NL", 
-        "Total" : 23771, 
-        "CreationDate" : 1646248081685, 
+        "Total" : 24718, 
+        "CreationDate" : 1646423712508, 
         "Creator" : "andreweaton", 
-        "EditDate" : 1646248081685, 
+        "EditDate" : 1646423712508, 
         "Editor" : "andreweaton", 
         "ObjectId" : 1
       }
