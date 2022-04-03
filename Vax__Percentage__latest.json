@@ -1,0 +1,64 @@
+{
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Status", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Status", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "One_Dose", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "One Dose %", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Fully_Vax", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Fully Vaccinated %", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "Status" : "Status", 
+        "One_Dose" : 96, 
+        "Fully_Vax" : 92.1
+      }, 
+      "geometry" : 
+      {
+        "x" : -5928386.5130543485, 
+        "y" : 6018363.4491754575
+      }
+    }
+  ]
+}

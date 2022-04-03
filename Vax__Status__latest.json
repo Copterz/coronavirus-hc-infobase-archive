@@ -1,0 +1,90 @@
+{
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Vax_Status", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Vaccine Status", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Vaccine_Info", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Vaccine Numbers", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Cases_Per", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Cases_Percent", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "Vax_Status" : "Fully Vaccinated", 
+        "Vaccine_Info" : 32658, 
+        "Cases_Per" : 12.1
+      }, 
+      "geometry" : 
+      {
+        "x" : -5937628.35719098, 
+        "y" : 6002446.9571767477
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 2, 
+        "Vax_Status" : "Partially Vaccinated", 
+        "Vaccine_Info" : 1542, 
+        "Cases_Per" : 5
+      }, 
+      "geometry" : 
+      {
+        "x" : -5900938.5836141035, 
+        "y" : 5951081.2741691228
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 3, 
+        "Vax_Status" : "Non-Vaccinated", 
+        "Vaccine_Info" : 3800, 
+        "Cases_Per" : 82.9
+      }, 
+      "geometry" : 
+      {
+        "x" : -5962088.2062422289, 
+        "y" : 6146760.0665791221
+      }
+    }
+  ]
+}

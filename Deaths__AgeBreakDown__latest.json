@@ -1,0 +1,139 @@
+{
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "AgeGroup", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Age Groups", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Deaths_", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Number of Deaths", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "AgeGroup" : "\u003c20", 
+        "Deaths_" : 0
+      }, 
+      "geometry" : 
+      {
+        "x" : -6376682.64766084, 
+        "y" : 6205463.7043020613
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 2, 
+        "AgeGroup" : "20-29", 
+        "Deaths_" : 0
+      }, 
+      "geometry" : 
+      {
+        "x" : -6343661.8514416544, 
+        "y" : 6149206.0514841853
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 3, 
+        "AgeGroup" : "30-39", 
+        "Deaths_" : 0
+      }, 
+      "geometry" : 
+      {
+        "x" : -6311864.0476750294, 
+        "y" : 6255606.3948571226
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 4, 
+        "AgeGroup" : "40-49", 
+        "Deaths_" : 2
+      }, 
+      "geometry" : 
+      {
+        "x" : -6119854.2326227175, 
+        "y" : 6233592.5307109971
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 5, 
+        "AgeGroup" : "50-59", 
+        "Deaths_" : 6
+      }, 
+      "geometry" : 
+      {
+        "x" : -6138199.1194111556, 
+        "y" : 6145537.0741264978
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 6, 
+        "AgeGroup" : "60-69", 
+        "Deaths_" : 18
+      }, 
+      "geometry" : 
+      {
+        "x" : -6254383.4024045924, 
+        "y" : 6320424.9948429344
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 7, 
+        "AgeGroup" : "70-79", 
+        "Deaths_" : 37
+      }, 
+      "geometry" : 
+      {
+        "x" : -6212801.6590174679, 
+        "y" : 6295965.1457916843
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 8, 
+        "AgeGroup" : "80+", 
+        "Deaths_" : 53
+      }, 
+      "geometry" : 
+      {
+        "x" : -6216470.6363751553, 
+        "y" : 6141868.09676881
+      }
+    }
+  ]
+}
