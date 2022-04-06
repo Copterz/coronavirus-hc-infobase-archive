@@ -77,7 +77,7 @@
         "OBJECTID" : 1, 
         "Age_Group" : "05-11", 
         "Age_Total" : 11437, 
-        "VaxRates" : 61.6, 
+        "VaxRates" : 61.8, 
         "Vacc_One" : 81.3, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0
@@ -93,7 +93,7 @@
         "OBJECTID" : 2, 
         "Age_Group" : "12-19", 
         "Age_Total" : 40117, 
-        "VaxRates" : 95.6, 
+        "VaxRates" : 95.7, 
         "Vacc_One" : 99.4, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0
@@ -142,7 +142,7 @@
         "Age_Group" : "40-49", 
         "Age_Total" : 63920, 
         "VaxRates" : 90.5, 
-        "Vacc_One" : 93, 
+        "Vacc_One" : 93.1, 
         "Deaths_age" : null, 
         "Deaths_Num" : 1
       }, 

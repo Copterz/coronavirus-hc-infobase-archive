@@ -51,7 +51,7 @@
       "attributes" : {
         "OBJECTID" : 1, 
         "Vax_Status" : "Fully Vaccinated", 
-        "Vaccine_Info" : 33270, 
+        "Vaccine_Info" : 33875, 
         "Cases_Per" : 12.1
       }, 
       "geometry" : 
@@ -64,7 +64,7 @@
       "attributes" : {
         "OBJECTID" : 2, 
         "Vax_Status" : "Partially Vaccinated", 
-        "Vaccine_Info" : 1556, 
+        "Vaccine_Info" : 1569, 
         "Cases_Per" : 5
       }, 
       "geometry" : 
@@ -77,7 +77,7 @@
       "attributes" : {
         "OBJECTID" : 3, 
         "Vax_Status" : "Non-Vaccinated", 
-        "Vaccine_Info" : 3848, 
+        "Vaccine_Info" : 3873, 
         "Cases_Per" : 82.9
       }, 
       "geometry" : 
