@@ -143,12 +143,12 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 70, 
+        "Deaths" : 76, 
         "Active_Case" : 1893, 
-        "Hospital" : 17, 
+        "Hospital" : 16, 
         "Tests" : 331939, 
         "ICU" : 4, 
-        "New_Deaths" : 3
+        "New_Deaths" : 6
       }, 
       "geometry" : 
       {
@@ -4245,12 +4245,12 @@
         "Total_Case" : 2801, 
         "New_Cases" : 30, 
         "Recover" : 2623, 
-        "Deaths" : 50, 
+        "Deaths" : 52, 
         "Active_Case" : 365, 
-        "Hospital" : 5, 
+        "Hospital" : 4, 
         "Tests" : 70508, 
-        "ICU" : 0, 
-        "New_Deaths" : 1
+        "ICU" : 2, 
+        "New_Deaths" : 2
       }, 
       "geometry" : 
       {
@@ -9660,12 +9660,12 @@
         "Total_Case" : 2240, 
         "New_Cases" : 38, 
         "Recover" : 2032, 
-        "Deaths" : 20, 
+        "Deaths" : 22, 
         "Active_Case" : 321, 
-        "Hospital" : 8, 
+        "Hospital" : 7, 
         "Tests" : 70296, 
-        "ICU" : 2, 
-        "New_Deaths" : 1
+        "ICU" : 1, 
+        "New_Deaths" : 2
       }, 
       "geometry" : 
       {
