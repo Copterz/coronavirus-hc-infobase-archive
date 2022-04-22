@@ -77,8 +77,8 @@
         "OBJECTID" : 1, 
         "Age_Group" : "05-11", 
         "Age_Total" : 11437, 
-        "VaxRates" : 62.8, 
-        "Vacc_One" : 81.4, 
+        "VaxRates" : 63, 
+        "Vacc_One" : 81.5, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0
       }, 
