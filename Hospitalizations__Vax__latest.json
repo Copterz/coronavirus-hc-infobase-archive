@@ -51,7 +51,7 @@
       "attributes" : {
         "OBJECTID" : 1, 
         "Vax_Status" : "Fully Vaccinated", 
-        "Vaccine_Info" : 302, 
+        "Vaccine_Info" : 311, 
         "Vaccine_Per" : null
       }, 
       "geometry" : 
@@ -64,7 +64,7 @@
       "attributes" : {
         "OBJECTID" : 2, 
         "Vax_Status" : "Un-vaccinated", 
-        "Vaccine_Info" : 123, 
+        "Vaccine_Info" : 128, 
         "Vaccine_Per" : null
       }, 
       "geometry" : 
