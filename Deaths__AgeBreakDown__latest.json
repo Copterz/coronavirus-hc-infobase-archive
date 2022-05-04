@@ -103,7 +103,7 @@
       "attributes" : {
         "OBJECTID" : 6, 
         "AgeGroup" : "60-69", 
-        "Deaths_" : 21
+        "Deaths_" : 22
       }, 
       "geometry" : 
       {
@@ -115,7 +115,7 @@
       "attributes" : {
         "OBJECTID" : 7, 
         "AgeGroup" : "70-79", 
-        "Deaths_" : 51
+        "Deaths_" : 52
       }, 
       "geometry" : 
       {
@@ -127,7 +127,7 @@
       "attributes" : {
         "OBJECTID" : 8, 
         "AgeGroup" : "80+", 
-        "Deaths_" : 81
+        "Deaths_" : 82
       }, 
       "geometry" : 
       {
