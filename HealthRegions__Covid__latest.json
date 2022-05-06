@@ -5,12 +5,16 @@
     "name" : "FID", 
     "isSystemMaintained" : true
   }, 
-  "globalIdFieldName" : "", 
+  "globalIdFieldName" : "GlobalID", 
   "geometryProperties" : 
   {
     "shapeAreaFieldName" : "Shape__Area", 
     "shapeLengthFieldName" : "Shape__Length", 
     "units" : "esriMeters"
+  }, 
+  "serverGens" : {
+    "minServerGen" : 436595, 
+    "serverGen" : 436599
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -130,6 +134,50 @@
       "sqlType" : "sqlTypeOther", 
       "domain" : null, 
       "defaultValue" : null
+    }, 
+    {
+      "name" : "GlobalID", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
     }
   ], 
   "features" : [
@@ -148,7 +196,12 @@
         "Hospital" : 6, 
         "Tests" : 331939, 
         "ICU" : 0, 
-        "New_Deaths" : 3
+        "New_Deaths" : 3, 
+        "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
+        "CreationDate" : 1651840520887, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1651840520887, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
@@ -4250,7 +4303,12 @@
         "Hospital" : 5, 
         "Tests" : 70508, 
         "ICU" : 3, 
-        "New_Deaths" : 0
+        "New_Deaths" : 0, 
+        "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
+        "CreationDate" : 1651840520887, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1651840520887, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
@@ -9665,7 +9723,12 @@
         "Hospital" : 3, 
         "Tests" : 70296, 
         "ICU" : 2, 
-        "New_Deaths" : 0
+        "New_Deaths" : 0, 
+        "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
+        "CreationDate" : 1651840520887, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1651840520887, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
@@ -12527,7 +12590,12 @@
         "Hospital" : 0, 
         "Tests" : 24641, 
         "ICU" : 0, 
-        "New_Deaths" : 0
+        "New_Deaths" : 0, 
+        "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
+        "CreationDate" : 1651840520887, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1651840520887, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
