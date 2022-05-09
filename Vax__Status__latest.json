@@ -5,7 +5,11 @@
     "name" : "OBJECTID", 
     "isSystemMaintained" : true
   }, 
-  "globalIdFieldName" : "", 
+  "globalIdFieldName" : "GlobalID", 
+  "serverGens" : {
+    "minServerGen" : 444021, 
+    "serverGen" : 444028
+  }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
     "wkid" : 102100, 
@@ -44,6 +48,50 @@
       "sqlType" : "sqlTypeOther", 
       "domain" : null, 
       "defaultValue" : null
+    }, 
+    {
+      "name" : "GlobalID", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
     }
   ], 
   "features" : [
@@ -51,8 +99,13 @@
       "attributes" : {
         "OBJECTID" : 1, 
         "Vax_Status" : "Fully Vaccinated", 
-        "Vaccine_Info" : 37960, 
-        "Cases_Per" : 12.1
+        "Vaccine_Info" : 38109, 
+        "Cases_Per" : 12.1, 
+        "GlobalID" : "ffcbc07a-4899-4c80-9e4c-2cf3a773480b", 
+        "CreationDate" : 1652105332264, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652105345275, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
@@ -64,8 +117,13 @@
       "attributes" : {
         "OBJECTID" : 2, 
         "Vax_Status" : "Partially Vaccinated", 
-        "Vaccine_Info" : 1622, 
-        "Cases_Per" : 5
+        "Vaccine_Info" : 1617, 
+        "Cases_Per" : 5, 
+        "GlobalID" : "d0cd8ebd-6683-4671-8fa9-859f0d0a8f11", 
+        "CreationDate" : 1652105332264, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652105349193, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
@@ -77,8 +135,13 @@
       "attributes" : {
         "OBJECTID" : 3, 
         "Vax_Status" : "Non-Vaccinated", 
-        "Vaccine_Info" : 4131, 
-        "Cases_Per" : 82.9
+        "Vaccine_Info" : 4138, 
+        "Cases_Per" : 82.9, 
+        "GlobalID" : "8ed8a830-5823-43f3-bb6c-cc5a0bac4f98", 
+        "CreationDate" : 1652105332264, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652105352931, 
+        "Editor" : "nlchi"
       }, 
       "geometry" : 
       {
