@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436596, 
-    "serverGen" : 444054
+    "serverGen" : 444100
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -1972,6 +1972,40 @@
       {
         "x" : -6629230.5891150041, 
         "y" : 6105789.8194182711
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 113, 
+        "Date_" : 1652363426000, 
+        "Cases" : 53, 
+        "GlobalID" : "1667fc1f-c5d5-45c8-9529-9af1f4f867bc", 
+        "CreationDate" : 1652449830609, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652449830609, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6598044.2815746656, 
+        "y" : 6229923.5533533376
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 114, 
+        "Date_" : 1652449840000, 
+        "Cases" : 55, 
+        "GlobalID" : "5d5fc807-8249-401b-ad39-8e748786e5de", 
+        "CreationDate" : 1652449844224, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652449844224, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6578476.4023336656, 
+        "y" : 6242153.4778789626
       }
     }
   ]
