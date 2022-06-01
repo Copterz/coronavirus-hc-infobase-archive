@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436614, 
-    "serverGen" : 444233
+    "serverGen" : 444291
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -125,14 +125,14 @@
         "OBJECTID" : 1, 
         "Age_Group" : "05-11", 
         "Age_Total" : 11437, 
-        "VaxRates" : 64.5, 
-        "Vacc_One" : 81.8, 
+        "VaxRates" : 64.7, 
+        "Vacc_One" : 81.9, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0, 
         "GlobalID" : "c70efb38-d4fb-4f93-972a-94ac1a614ac2", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1653484268492, 
+        "EditDate" : 1654093235586, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -168,13 +168,13 @@
         "Age_Group" : "20-29", 
         "Age_Total" : 51557, 
         "VaxRates" : 89.4, 
-        "Vacc_One" : 94.3, 
+        "Vacc_One" : 94.4, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0, 
         "GlobalID" : "6ff21c0b-db16-49a6-9ab6-b202c8b49eb0", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1652277123615, 
+        "EditDate" : 1654093219499, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -251,14 +251,14 @@
         "OBJECTID" : 7, 
         "Age_Group" : "60-69", 
         "Age_Total" : 80842, 
-        "VaxRates" : 96.5, 
-        "Vacc_One" : 98.3, 
+        "VaxRates" : 96.4, 
+        "Vacc_One" : 98.2, 
         "Deaths_age" : null, 
         "Deaths_Num" : 16, 
         "GlobalID" : "7112fda1-cb21-4c47-86f5-3ba40682c496", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1653484282955, 
+        "EditDate" : 1654093244134, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -293,14 +293,14 @@
         "OBJECTID" : 9, 
         "Age_Group" : "80+", 
         "Age_Total" : 24119, 
-        "VaxRates" : 99.6, 
+        "VaxRates" : 99.9, 
         "Vacc_One" : 100, 
         "Deaths_age" : null, 
         "Deaths_Num" : 32, 
         "GlobalID" : "11f89387-0782-4f5d-86db-dfeb167089d1", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1653484288072, 
+        "EditDate" : 1654093248976, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
