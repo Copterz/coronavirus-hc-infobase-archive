@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 444291
+    "serverGen" : 444382
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 93, 
+        "Deaths" : 96, 
         "Active_Case" : 1893, 
-        "Hospital" : 1, 
+        "Hospital" : 2, 
         "Tests" : 331939, 
-        "ICU" : 0, 
-        "New_Deaths" : 1, 
+        "ICU" : 1, 
+        "New_Deaths" : 3, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1654092802691, 
+        "EditDate" : 1654699410052, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4302,12 +4302,12 @@
         "Active_Case" : 365, 
         "Hospital" : 2, 
         "Tests" : 70508, 
-        "ICU" : 0, 
+        "ICU" : 1, 
         "New_Deaths" : 0, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1654092792821, 
+        "EditDate" : 1654699388034, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -9722,12 +9722,12 @@
         "Active_Case" : 321, 
         "Hospital" : 1, 
         "Tests" : 70296, 
-        "ICU" : 1, 
-        "New_Deaths" : 1, 
+        "ICU" : 0, 
+        "New_Deaths" : 0, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1654092806685, 
+        "EditDate" : 1654699412033, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -12587,14 +12587,14 @@
         "Recover" : 1895, 
         "Deaths" : 2, 
         "Active_Case" : 109, 
-        "Hospital" : 1, 
+        "Hospital" : 0, 
         "Tests" : 24641, 
-        "ICU" : 1, 
+        "ICU" : 0, 
         "New_Deaths" : 0, 
         "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1654092782630, 
+        "EditDate" : 1654699391044, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
