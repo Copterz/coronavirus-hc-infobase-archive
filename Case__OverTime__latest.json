@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436596, 
-    "serverGen" : 444446
+    "serverGen" : 452046
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -2567,6 +2567,125 @@
       {
         "x" : -6391931.8348037256, 
         "y" : 6568616.02568489
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 148, 
+        "Date_" : 1655389074000, 
+        "Cases" : 74, 
+        "GlobalID" : "8b53ed2f-eeb3-4806-8043-c12ea5c2c2b2", 
+        "CreationDate" : 1655907478944, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907478944, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6417041.3985954085, 
+        "y" : 6488968.6422117492
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 149, 
+        "Date_" : 1655475493000, 
+        "Cases" : 55, 
+        "GlobalID" : "427d96ed-a761-4789-80a4-b077f8e3f979", 
+        "CreationDate" : 1655907496950, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907496950, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6414442.5396337118, 
+        "y" : 6493707.737965432
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 150, 
+        "Date_" : 1655561910000, 
+        "Cases" : 77, 
+        "GlobalID" : "11dcd9d8-6af9-480d-9685-2080ecc95049", 
+        "CreationDate" : 1655907512827, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907512827, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6416582.7764256978, 
+        "y" : 6483465.1761752144
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 151, 
+        "Date_" : 1655648325000, 
+        "Cases" : 40, 
+        "GlobalID" : "debd9592-f250-4578-af6a-ad962b4c3bf8", 
+        "CreationDate" : 1655907531105, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907531105, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6417958.6429348309, 
+        "y" : 6476127.2214598348
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 152, 
+        "Date_" : 1655734745000, 
+        "Cases" : 21, 
+        "GlobalID" : "c89d034d-4383-48e6-bbbe-e8c553a3ae5b", 
+        "CreationDate" : 1655907548749, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907548749, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6409703.443880029, 
+        "y" : 6497835.3374928329
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 153, 
+        "Date_" : 1655821174000, 
+        "Cases" : 64, 
+        "GlobalID" : "91b96a31-febe-434d-a34e-bc1a06a74d48", 
+        "CreationDate" : 1655907578460, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907578460, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6412913.7990680076, 
+        "y" : 6488968.6422117492
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 154, 
+        "Date_" : 1655907591000, 
+        "Cases" : 87, 
+        "GlobalID" : "04d2f905-69f3-4b5f-8f23-a651aa0d03c7", 
+        "CreationDate" : 1655907596436, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1655907596436, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6423920.7311410774, 
+        "y" : 6479184.7025912432
       }
     }
   ]
