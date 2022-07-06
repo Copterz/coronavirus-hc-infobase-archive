@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 444071, 
-    "serverGen" : 444382
+    "serverGen" : 452223
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -55,7 +55,7 @@
       "attributes" : {
         "OBJECTID" : 1, 
         "Vax_Status" : "Fully Vaccinated", 
-        "Vaccine_Info" : 136, 
+        "Vaccine_Info" : 141, 
         "GlobalID" : "6e3c429e-bb8d-4b35-bef0-0661bd85d1fc"
       }, 
       "geometry" : 
@@ -81,7 +81,7 @@
       "attributes" : {
         "OBJECTID" : 3, 
         "Vax_Status" : "Unvaccinated", 
-        "Vaccine_Info" : 40, 
+        "Vaccine_Info" : 42, 
         "GlobalID" : "e8c4d961-a2cc-4cd8-ab16-e967345fb0db"
       }, 
       "geometry" : 
