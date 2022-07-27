@@ -1,94 +1,12 @@
+
 {
-  "objectIdFieldName" : "OBJECTID", 
-  "uniqueIdField" : 
+  "error" : 
   {
-    "name" : "OBJECTID", 
-    "isSystemMaintained" : true
-  }, 
-  "globalIdFieldName" : "GlobalID", 
-  "serverGens" : {
-    "minServerGen" : 444071, 
-    "serverGen" : 452223
-  }, 
-  "geometryType" : "esriGeometryPoint", 
-  "spatialReference" : {
-    "wkid" : 102100, 
-    "latestWkid" : 3857
-  }, 
-  "fields" : [
-    {
-      "name" : "OBJECTID", 
-      "type" : "esriFieldTypeOID", 
-      "alias" : "OBJECTID", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "Vax_Status", 
-      "type" : "esriFieldTypeString", 
-      "alias" : "Vaccine Status", 
-      "sqlType" : "sqlTypeOther", 
-      "length" : 256, 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "Vaccine_Info", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "Vaccine Numbers", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "GlobalID", 
-      "type" : "esriFieldTypeGlobalID", 
-      "alias" : "GlobalID", 
-      "sqlType" : "sqlTypeOther", 
-      "length" : 38, 
-      "domain" : null
-    }
-  ], 
-  "features" : [
-    {
-      "attributes" : {
-        "OBJECTID" : 1, 
-        "Vax_Status" : "Fully Vaccinated", 
-        "Vaccine_Info" : 141, 
-        "GlobalID" : "6e3c429e-bb8d-4b35-bef0-0661bd85d1fc"
-      }, 
-      "geometry" : 
-      {
-        "x" : -5958046.2039975561, 
-        "y" : 5997810.098887478
-      }
-    }, 
-    {
-      "attributes" : {
-        "OBJECTID" : 2, 
-        "Vax_Status" : "Partially Vaccinated", 
-        "Vaccine_Info" : 5, 
-        "GlobalID" : "2ea7a4bb-ba55-4b09-97e8-0e824fbe95b2"
-      }, 
-      "geometry" : 
-      {
-        "x" : -5923802.415325799, 
-        "y" : 5974573.242288786
-      }
-    }, 
-    {
-      "attributes" : {
-        "OBJECTID" : 3, 
-        "Vax_Status" : "Unvaccinated", 
-        "Vaccine_Info" : 42, 
-        "GlobalID" : "e8c4d961-a2cc-4cd8-ab16-e967345fb0db"
-      }, 
-      "geometry" : 
-      {
-        "x" : -5945816.2794719283, 
-        "y" : 6036945.8573694862
-      }
-    }
-  ]
+    "code" : 499, 
+    "message" : "Token Required", 
+    "messageCode" : "GWM_0003", 
+    "details" : [
+      "Token Required"
+    ]
+  }
 }
