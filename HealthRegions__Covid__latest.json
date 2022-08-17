@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 461640
+    "serverGen" : 461738
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 110, 
+        "Deaths" : 111, 
         "Active_Case" : 1893, 
         "Hospital" : 4, 
         "Tests" : 331939, 
         "ICU" : 0, 
-        "New_Deaths" : 2, 
+        "New_Deaths" : 1, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1660141643834, 
+        "EditDate" : 1660746590511, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4298,16 +4298,16 @@
         "Total_Case" : 2801, 
         "New_Cases" : 30, 
         "Recover" : 2623, 
-        "Deaths" : 69, 
+        "Deaths" : 71, 
         "Active_Case" : 365, 
-        "Hospital" : 4, 
+        "Hospital" : 10, 
         "Tests" : 70508, 
-        "ICU" : 2, 
-        "New_Deaths" : 6, 
+        "ICU" : 1, 
+        "New_Deaths" : 2, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1660141647471, 
+        "EditDate" : 1660746594828, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -12585,16 +12585,16 @@
         "Total_Case" : 2007, 
         "New_Cases" : 9, 
         "Recover" : 1895, 
-        "Deaths" : 3, 
+        "Deaths" : 4, 
         "Active_Case" : 109, 
-        "Hospital" : 2, 
+        "Hospital" : 0, 
         "Tests" : 24641, 
         "ICU" : 0, 
-        "New_Deaths" : 0, 
+        "New_Deaths" : 1, 
         "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1660141638170, 
+        "EditDate" : 1660746598259, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
