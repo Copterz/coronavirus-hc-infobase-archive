@@ -1,1 +1,77 @@
-{"error":{"code":502,"message":"An error occurred.","details":[]}}
+{
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "GlobalID", 
+  "serverGens" : {
+    "minServerGen" : 444407, 
+    "serverGen" : 468032
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Status", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Status", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "One_Dose", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "One Dose %", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Fully_Vax", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Fully Vaccinated %", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GlobalID", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "Status" : "Status", 
+        "One_Dose" : 96, 
+        "Fully_Vax" : 92.7, 
+        "GlobalID" : "990b79a5-12a0-4102-9a07-a52678c71bfc"
+      }, 
+      "geometry" : 
+      {
+        "x" : -5928386.5130543485, 
+        "y" : 6018363.4491754575
+      }
+    }
+  ]
+}
