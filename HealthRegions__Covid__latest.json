@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 484082
+    "serverGen" : 484561
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 115, 
+        "Deaths" : 117, 
         "Active_Case" : 1893, 
-        "Hospital" : 5, 
+        "Hospital" : 1, 
         "Tests" : 331939, 
-        "ICU" : 1, 
-        "New_Deaths" : 1, 
+        "ICU" : 0, 
+        "New_Deaths" : 2, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1661954262316, 
+        "EditDate" : 1662561453971, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4298,16 +4298,16 @@
         "Total_Case" : 2801, 
         "New_Cases" : 30, 
         "Recover" : 2623, 
-        "Deaths" : 73, 
+        "Deaths" : 75, 
         "Active_Case" : 365, 
-        "Hospital" : 3, 
+        "Hospital" : 1, 
         "Tests" : 70508, 
         "ICU" : 0, 
-        "New_Deaths" : 1, 
+        "New_Deaths" : 2, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1661954251053, 
+        "EditDate" : 1662561455740, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -9718,16 +9718,16 @@
         "Total_Case" : 2240, 
         "New_Cases" : 38, 
         "Recover" : 2032, 
-        "Deaths" : 37, 
+        "Deaths" : 38, 
         "Active_Case" : 321, 
-        "Hospital" : 3, 
+        "Hospital" : 1, 
         "Tests" : 70296, 
-        "ICU" : 1, 
-        "New_Deaths" : 2, 
+        "ICU" : 0, 
+        "New_Deaths" : 1, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1661954267973, 
+        "EditDate" : 1662561456370, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
