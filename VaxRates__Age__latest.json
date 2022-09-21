@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436614, 
-    "serverGen" : 486055
+    "serverGen" : 493415
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -125,14 +125,14 @@
         "OBJECTID" : 1, 
         "Age_Group" : "05-11", 
         "Age_Total" : 11437, 
-        "VaxRates" : 66.2, 
+        "VaxRates" : 66.3, 
         "Vacc_One" : 82.6, 
         "Deaths_age" : null, 
         "Deaths_Num" : 0, 
         "GlobalID" : "c70efb38-d4fb-4f93-972a-94ac1a614ac2", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1663165982212, 
+        "EditDate" : 1663769919873, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -230,14 +230,14 @@
         "OBJECTID" : 6, 
         "Age_Group" : "50-59", 
         "Age_Total" : 78872, 
-        "VaxRates" : 92.8, 
+        "VaxRates" : 92.7, 
         "Vacc_One" : 94.9, 
         "Deaths_age" : null, 
         "Deaths_Num" : 5, 
         "GlobalID" : "11ebc34c-f736-4bb3-bfea-d2a8fce0efc6", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1661954487916, 
+        "EditDate" : 1663769948022, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -252,13 +252,13 @@
         "Age_Group" : "60-69", 
         "Age_Total" : 80842, 
         "VaxRates" : 95.8, 
-        "Vacc_One" : 97.6, 
+        "Vacc_One" : 97.7, 
         "Deaths_age" : null, 
         "Deaths_Num" : 16, 
         "GlobalID" : "7112fda1-cb21-4c47-86f5-3ba40682c496", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1661350358420, 
+        "EditDate" : 1663769964651, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -315,13 +315,13 @@
         "Age_Group" : "04", 
         "Age_Total" : null, 
         "VaxRates" : null, 
-        "Vacc_One" : 8.1, 
+        "Vacc_One" : 8.6, 
         "Deaths_age" : null, 
         "Deaths_Num" : null, 
         "GlobalID" : "6ea47e02-9a01-4818-b567-383a0775295e", 
         "CreationDate" : 1660747431567, 
         "Creator" : "nlchi", 
-        "EditDate" : 1663165961813, 
+        "EditDate" : 1663769954620, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
