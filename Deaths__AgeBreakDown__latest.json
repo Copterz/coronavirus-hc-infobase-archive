@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 444010, 
-    "serverGen" : 493415
+    "serverGen" : 495395
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -176,11 +176,11 @@
       "attributes" : {
         "OBJECTID" : 6, 
         "AgeGroup" : "60-69", 
-        "Deaths_" : 30, 
+        "Deaths_" : 31, 
         "GlobalID" : "98ccec8c-0658-47b6-9680-b1cf8eefc5d3", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1660746675199, 
+        "EditDate" : 1664375431482, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -193,11 +193,11 @@
       "attributes" : {
         "OBJECTID" : 7, 
         "AgeGroup" : "70-79", 
-        "Deaths_" : 73, 
+        "Deaths_" : 74, 
         "GlobalID" : "e4ba5456-b069-4ecb-8aa0-767e2f80f432", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1663769865752, 
+        "EditDate" : 1664375436845, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -210,11 +210,11 @@
       "attributes" : {
         "OBJECTID" : 8, 
         "AgeGroup" : "80+", 
-        "Deaths_" : 115, 
+        "Deaths_" : 117, 
         "GlobalID" : "9f06d0e4-3cba-4358-bbbc-7585d91b6734", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1663165720573, 
+        "EditDate" : 1664375440532, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
