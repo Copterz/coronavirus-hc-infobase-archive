@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 500344
+    "serverGen" : 508076
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 132, 
+        "Deaths" : 135, 
         "Active_Case" : 1893, 
-        "Hospital" : 3, 
+        "Hospital" : 4, 
         "Tests" : 331939, 
-        "ICU" : 1, 
-        "New_Deaths" : 4, 
+        "ICU" : 0, 
+        "New_Deaths" : 3, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1666190034798, 
+        "EditDate" : 1666792544472, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4300,14 +4300,14 @@
         "Recover" : 2623, 
         "Deaths" : 76, 
         "Active_Case" : 365, 
-        "Hospital" : 2, 
+        "Hospital" : 1, 
         "Tests" : 70508, 
         "ICU" : 0, 
-        "New_Deaths" : 1, 
+        "New_Deaths" : 0, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1666190038791, 
+        "EditDate" : 1666792525007, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
