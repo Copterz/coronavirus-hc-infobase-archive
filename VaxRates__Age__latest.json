@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436614, 
-    "serverGen" : 508076
+    "serverGen" : 508188
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -231,13 +231,13 @@
         "Age_Group" : "50-59", 
         "Age_Total" : 78872, 
         "VaxRates" : 92.6, 
-        "Vacc_One" : 94.8, 
+        "Vacc_One" : 94.7, 
         "Deaths_age" : null, 
         "Deaths_Num" : 5, 
         "GlobalID" : "11ebc34c-f736-4bb3-bfea-d2a8fce0efc6", 
         "CreationDate" : 1651845675907, 
         "Creator" : "nlchi", 
-        "EditDate" : 1666190181685, 
+        "EditDate" : 1667399263488, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -314,14 +314,14 @@
         "OBJECTID" : 11, 
         "Age_Group" : "04", 
         "Age_Total" : null, 
-        "VaxRates" : 2, 
-        "Vacc_One" : 10.5, 
+        "VaxRates" : 2.5, 
+        "Vacc_One" : 10.7, 
         "Deaths_age" : null, 
         "Deaths_Num" : null, 
         "GlobalID" : "6ea47e02-9a01-4818-b567-383a0775295e", 
         "CreationDate" : 1660747431567, 
         "Creator" : "nlchi", 
-        "EditDate" : 1666792707326, 
+        "EditDate" : 1667399249956, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
