@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 444407, 
-    "serverGen" : 493415
+    "serverGen" : 508277
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -64,7 +64,7 @@
         "OBJECTID" : 1, 
         "Status" : "Status", 
         "One_Dose" : 96, 
-        "Fully_Vax" : 92.8, 
+        "Fully_Vax" : 92.9, 
         "GlobalID" : "990b79a5-12a0-4102-9a07-a52678c71bfc"
       }, 
       "geometry" : 
