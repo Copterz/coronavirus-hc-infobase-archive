@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 508862
+    "serverGen" : 508949
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 144, 
+        "Deaths" : 145, 
         "Active_Case" : 1893, 
-        "Hospital" : 10, 
+        "Hospital" : 7, 
         "Tests" : 331939, 
-        "ICU" : 5, 
-        "New_Deaths" : 2, 
+        "ICU" : 3, 
+        "New_Deaths" : 1, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1669821115456, 
+        "EditDate" : 1670425846986, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4300,14 +4300,14 @@
         "Recover" : 2623, 
         "Deaths" : 81, 
         "Active_Case" : 365, 
-        "Hospital" : 3, 
+        "Hospital" : 5, 
         "Tests" : 70508, 
         "ICU" : 1, 
-        "New_Deaths" : 3, 
+        "New_Deaths" : 0, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1669821117309, 
+        "EditDate" : 1670425836374, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -9722,12 +9722,12 @@
         "Active_Case" : 321, 
         "Hospital" : 3, 
         "Tests" : 70296, 
-        "ICU" : 0, 
+        "ICU" : 1, 
         "New_Deaths" : 0, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1669821118234, 
+        "EditDate" : 1670425825653, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -12587,14 +12587,14 @@
         "Recover" : 1895, 
         "Deaths" : 5, 
         "Active_Case" : 109, 
-        "Hospital" : 3, 
+        "Hospital" : 0, 
         "Tests" : 24641, 
         "ICU" : 0, 
         "New_Deaths" : 0, 
         "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1669821121521, 
+        "EditDate" : 1670425814604, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
