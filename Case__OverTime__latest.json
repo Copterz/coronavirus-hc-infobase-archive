@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 436596, 
-    "serverGen" : 532362
+    "serverGen" : 532365
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -6159,12 +6159,12 @@
     {
       "attributes" : {
         "OBJECTID" : 359, 
-        "Date_" : 1673537272000, 
+        "Date_" : 1673623620000, 
         "Cases" : 8, 
         "GlobalID" : "59e9efc5-9230-4d4e-89b0-7eae41c4ddfb", 
         "CreationDate" : 1674055675971, 
         "Creator" : "nlchi", 
-        "EditDate" : 1674055675971, 
+        "EditDate" : 1674057305503, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
