@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 548165
+    "serverGen" : 548166
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -9723,11 +9723,11 @@
         "Hospital" : 3, 
         "Tests" : 70296, 
         "ICU" : 0, 
-        "New_Deaths" : 3, 
+        "New_Deaths" : 2, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1675263777036, 
+        "EditDate" : 1675266436902, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
