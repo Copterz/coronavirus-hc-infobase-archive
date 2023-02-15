@@ -1,12 +1,227 @@
-
 {
-  "error" : 
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
   {
-    "code" : 499, 
-    "message" : "Token Required", 
-    "messageCode" : "GWM_0003", 
-    "details" : [
-      "Token Required"
-    ]
-  }
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "GlobalID", 
+  "serverGens" : {
+    "minServerGen" : 444010, 
+    "serverGen" : 548475
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "AgeGroup", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Age Groups", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Deaths_", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Number of Deaths", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GlobalID", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "domain" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "AgeGroup" : "\u003c20", 
+        "Deaths_" : 1, 
+        "GlobalID" : "2f569d74-6609-4c1a-8686-d60edf423db4", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1654699493752, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6376682.64766084, 
+        "y" : 6205463.7043020613
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 2, 
+        "AgeGroup" : "20-29", 
+        "Deaths_" : 0, 
+        "GlobalID" : "90a00f1a-3499-4277-8b6b-d45ea44dbd17", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652105063049, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6343661.8514416544, 
+        "y" : 6149206.0514841853
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 3, 
+        "AgeGroup" : "30-39", 
+        "Deaths_" : 1, 
+        "GlobalID" : "9f7089de-42bb-4cdc-8f95-23abeb5f368f", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1652105063049, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6311864.0476750294, 
+        "y" : 6255606.3948571226
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 4, 
+        "AgeGroup" : "40-49", 
+        "Deaths_" : 4, 
+        "GlobalID" : "53e897f0-3eda-49ff-b729-99843cd66f07", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1659537935486, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6119854.2326227175, 
+        "y" : 6233592.5307109971
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 5, 
+        "AgeGroup" : "50-59", 
+        "Deaths_" : 15, 
+        "GlobalID" : "7a68ed06-ef4c-4685-87cc-922d70ee64e5", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1676475066581, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6138199.1194111556, 
+        "y" : 6145537.0741264978
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 6, 
+        "AgeGroup" : "60-69", 
+        "Deaths_" : 37, 
+        "GlobalID" : "98ccec8c-0658-47b6-9680-b1cf8eefc5d3", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1676475072033, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6254383.4024045924, 
+        "y" : 6320424.9948429344
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 7, 
+        "AgeGroup" : "70-79", 
+        "Deaths_" : 99, 
+        "GlobalID" : "e4ba5456-b069-4ecb-8aa0-767e2f80f432", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1676475075605, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6212801.6590174679, 
+        "y" : 6295965.1457916843
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 8, 
+        "AgeGroup" : "80+", 
+        "Deaths_" : 157, 
+        "GlobalID" : "9f06d0e4-3cba-4358-bbbc-7585d91b6734", 
+        "CreationDate" : 1652105063049, 
+        "Creator" : "nlchi", 
+        "EditDate" : 1676475080832, 
+        "Editor" : "nlchi"
+      }, 
+      "geometry" : 
+      {
+        "x" : -6216470.6363751553, 
+        "y" : 6141868.09676881
+      }
+    }
+  ]
 }
