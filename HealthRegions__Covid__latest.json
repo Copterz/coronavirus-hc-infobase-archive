@@ -14,7 +14,7 @@
   }, 
   "serverGens" : {
     "minServerGen" : 436595, 
-    "serverGen" : 548166
+    "serverGen" : 548457
   }, 
   "geometryType" : "esriGeometryPolygon", 
   "spatialReference" : {
@@ -191,16 +191,16 @@
         "Total_Case" : 13530, 
         "New_Cases" : 219, 
         "Recover" : 12259, 
-        "Deaths" : 156, 
+        "Deaths" : 159, 
         "Active_Case" : 1893, 
-        "Hospital" : 9, 
+        "Hospital" : 8, 
         "Tests" : 331939, 
-        "ICU" : 2, 
+        "ICU" : 0, 
         "New_Deaths" : 3, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1675263770153, 
+        "EditDate" : 1676474971610, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -4300,14 +4300,14 @@
         "Recover" : 2623, 
         "Deaths" : 89, 
         "Active_Case" : 365, 
-        "Hospital" : 2, 
+        "Hospital" : 8, 
         "Tests" : 70508, 
-        "ICU" : 0, 
-        "New_Deaths" : 1, 
+        "ICU" : 1, 
+        "New_Deaths" : 0, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1675263774344, 
+        "EditDate" : 1676474959894, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -9718,16 +9718,16 @@
         "Total_Case" : 2240, 
         "New_Cases" : 38, 
         "Recover" : 2032, 
-        "Deaths" : 55, 
+        "Deaths" : 57, 
         "Active_Case" : 321, 
-        "Hospital" : 3, 
+        "Hospital" : 4, 
         "Tests" : 70296, 
         "ICU" : 0, 
         "New_Deaths" : 2, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1675266436902, 
+        "EditDate" : 1676474977714, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -12585,16 +12585,16 @@
         "Total_Case" : 2007, 
         "New_Cases" : 9, 
         "Recover" : 1895, 
-        "Deaths" : 7, 
+        "Deaths" : 9, 
         "Active_Case" : 109, 
-        "Hospital" : 0, 
+        "Hospital" : 1, 
         "Tests" : 24641, 
         "ICU" : 0, 
         "New_Deaths" : 1, 
         "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1675263780601, 
+        "EditDate" : 1676474980209, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
