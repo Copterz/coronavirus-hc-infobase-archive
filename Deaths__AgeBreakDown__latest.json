@@ -8,7 +8,7 @@
   "globalIdFieldName" : "GlobalID", 
   "serverGens" : {
     "minServerGen" : 444010, 
-    "serverGen" : 556121
+    "serverGen" : 444010
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
@@ -47,7 +47,8 @@
       "alias" : "GlobalID", 
       "sqlType" : "sqlTypeOther", 
       "length" : 38, 
-      "domain" : null
+      "domain" : null, 
+      "defaultValue" : "NEWID() WITH VALUES"
     }, 
     {
       "name" : "CreationDate", 
@@ -159,11 +160,11 @@
       "attributes" : {
         "OBJECTID" : 5, 
         "AgeGroup" : "50-59", 
-        "Deaths_" : 15, 
+        "Deaths_" : 16, 
         "GlobalID" : "7a68ed06-ef4c-4685-87cc-922d70ee64e5", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1676475066581, 
+        "EditDate" : 1677683334265, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -176,11 +177,11 @@
       "attributes" : {
         "OBJECTID" : 6, 
         "AgeGroup" : "60-69", 
-        "Deaths_" : 37, 
+        "Deaths_" : 38, 
         "GlobalID" : "98ccec8c-0658-47b6-9680-b1cf8eefc5d3", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1676475072033, 
+        "EditDate" : 1677683339014, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -193,11 +194,11 @@
       "attributes" : {
         "OBJECTID" : 7, 
         "AgeGroup" : "70-79", 
-        "Deaths_" : 99, 
+        "Deaths_" : 100, 
         "GlobalID" : "e4ba5456-b069-4ecb-8aa0-767e2f80f432", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1676475075605, 
+        "EditDate" : 1677683343014, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -210,11 +211,11 @@
       "attributes" : {
         "OBJECTID" : 8, 
         "AgeGroup" : "80+", 
-        "Deaths_" : 157, 
+        "Deaths_" : 161, 
         "GlobalID" : "9f06d0e4-3cba-4358-bbbc-7585d91b6734", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1676475080832, 
+        "EditDate" : 1677683347892, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
