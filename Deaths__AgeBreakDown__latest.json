@@ -211,11 +211,11 @@
       "attributes" : {
         "OBJECTID" : 8, 
         "AgeGroup" : "80+", 
-        "Deaths_" : 173, 
+        "Deaths_" : 174, 
         "GlobalID" : "9f06d0e4-3cba-4358-bbbc-7585d91b6734", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1683728331164, 
+        "EditDate" : 1685023312767, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
