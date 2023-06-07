@@ -143,11 +143,11 @@
       "attributes" : {
         "OBJECTID" : 4, 
         "AgeGroup" : "40-49", 
-        "Deaths_" : 4, 
+        "Deaths_" : 5, 
         "GlobalID" : "53e897f0-3eda-49ff-b729-99843cd66f07", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1659537935486, 
+        "EditDate" : 1686147211460, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
@@ -194,11 +194,11 @@
       "attributes" : {
         "OBJECTID" : 7, 
         "AgeGroup" : "70-79", 
-        "Deaths_" : 108, 
+        "Deaths_" : 110, 
         "GlobalID" : "e4ba5456-b069-4ecb-8aa0-767e2f80f432", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1683728325767, 
+        "EditDate" : 1686147218865, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
