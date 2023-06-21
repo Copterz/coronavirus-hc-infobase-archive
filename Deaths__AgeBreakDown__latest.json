@@ -194,11 +194,11 @@
       "attributes" : {
         "OBJECTID" : 7, 
         "AgeGroup" : "70-79", 
-        "Deaths_" : 110, 
+        "Deaths_" : 111, 
         "GlobalID" : "e4ba5456-b069-4ecb-8aa0-767e2f80f432", 
         "CreationDate" : 1652105063049, 
         "Creator" : "nlchi", 
-        "EditDate" : 1686147218865, 
+        "EditDate" : 1687354630404, 
         "Editor" : "nlchi"
       }, 
       "geometry" : 
