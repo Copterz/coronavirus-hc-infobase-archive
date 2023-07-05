@@ -130,7 +130,7 @@
     {
       "name" : "New_Deaths", 
       "type" : "esriFieldTypeDouble", 
-      "alias" : "New Deaths", 
+      "alias" : "Deaths - Current Report", 
       "sqlType" : "sqlTypeOther", 
       "domain" : null, 
       "defaultValue" : null
@@ -179,6 +179,14 @@
       "length" : 128, 
       "domain" : null, 
       "defaultValue" : null
+    }, 
+    {
+      "name" : "Deaths_prev", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Deaths - Previous report", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
     }
   ], 
   "features" : [
@@ -194,15 +202,16 @@
         "Recover" : 12259, 
         "Deaths" : 181, 
         "Active_Case" : 1893, 
-        "Hospital" : 10, 
+        "Hospital" : 6, 
         "Tests" : 331939, 
-        "ICU" : 2, 
-        "New_Deaths" : 0, 
+        "ICU" : 5, 
+        "New_Deaths" : 5, 
         "GlobalID" : "3f22023e-03cb-4926-9189-05055631daaa", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1687354549227, 
-        "Editor" : "nlchi"
+        "EditDate" : 1688562824416, 
+        "Editor" : "nlchi", 
+        "Deaths_prev" : 0
       }, 
       "geometry" : 
       {
@@ -4301,15 +4310,16 @@
         "Recover" : 2623, 
         "Deaths" : 99, 
         "Active_Case" : 365, 
-        "Hospital" : 1, 
+        "Hospital" : 3, 
         "Tests" : 70508, 
         "ICU" : 0, 
-        "New_Deaths" : 1, 
+        "New_Deaths" : 0, 
         "GlobalID" : "1d0a8328-1680-4a6f-b923-8b51157d594b", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1687354550374, 
-        "Editor" : "nlchi"
+        "EditDate" : 1688562749418, 
+        "Editor" : "nlchi", 
+        "Deaths_prev" : 0
       }, 
       "geometry" : 
       {
@@ -9721,15 +9731,16 @@
         "Recover" : 2032, 
         "Deaths" : 58, 
         "Active_Case" : 321, 
-        "Hospital" : 6, 
+        "Hospital" : 3, 
         "Tests" : 70296, 
-        "ICU" : 2, 
+        "ICU" : 0, 
         "New_Deaths" : 0, 
         "GlobalID" : "e2e2a0a1-6782-4eb3-a500-25e6986b2b8d", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1687354528860, 
-        "Editor" : "nlchi"
+        "EditDate" : 1688562822693, 
+        "Editor" : "nlchi", 
+        "Deaths_prev" : 0
       }, 
       "geometry" : 
       {
@@ -12595,8 +12606,9 @@
         "GlobalID" : "28383730-aa42-4645-9ab3-d4c7e2da1e11", 
         "CreationDate" : 1651840520887, 
         "Creator" : "nlchi", 
-        "EditDate" : 1685023397088, 
-        "Editor" : "nlchi"
+        "EditDate" : 1688562751300, 
+        "Editor" : "nlchi", 
+        "Deaths_prev" : 0
       }, 
       "geometry" : 
       {
