@@ -2,10 +2,11 @@
 {
   "error" : 
   {
-    "code" : 400, 
-    "message" : "Invalid URL", 
+    "code" : 499, 
+    "message" : "Token Required", 
+    "messageCode" : "GWM_0003", 
     "details" : [
-      "Invalid URL"
+      "Token Required"
     ]
   }
 }
